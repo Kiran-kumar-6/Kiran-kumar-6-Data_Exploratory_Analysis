@@ -102,5 +102,3 @@ Company_Year_rank as (
 select * from Company_Year_rank where ranking <= 5;
 Lists the top 5 companies with the highest layoffs for each year.
 
-
-
